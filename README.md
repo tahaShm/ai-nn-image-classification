@@ -1,6 +1,6 @@
-# ai-simple-nn
+# ai-nn-image-classification
 
-This is a simple neural network for image classification using pytorch including:
+This is a neural network for image classification using pytorch including:
 
 - Neural network layers like feed-forward and softmax
 - Cost function using cross entropy
